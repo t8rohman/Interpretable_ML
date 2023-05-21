@@ -12,4 +12,4 @@ The purpose I made this repository is to learn and help people especially in the
 
 ## About Dataset
  
-Most of the dataset here were taken from Kaggle. The respective dataset will be written on the notebook itself.
+Most of the dataset here were taken from Kaggle public dataset. The respective dataset will be written on the notebook itself.
