@@ -27,6 +27,10 @@ Interpretable models which are being discussed here are:
 - Act 3:
   - SHapley Additive exPlanations (SHAP)
   - Accumulated Local Effects (ALE)
+ 
+- Act 4:
+  - Anchor Explanations
+  - Counterfactual (CounterfactualProto, WIT, and CEM)
 
 ## About Dataset
  
